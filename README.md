@@ -1,4 +1,3 @@
-# post-install-config
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -9,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=ZrwgMx8PCec)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,11 +22,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- working as a Admin, agent and a user
+- configure Roles (grouping Permissions)
+- Configure Departments
+- Configure Teams
+- create tickets
+- Configure Agents (workers)
+- Configure Users (customers)
+- Configure SLA
+- when users create a ticket Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
